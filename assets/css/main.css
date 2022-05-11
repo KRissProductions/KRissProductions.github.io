@@ -898,7 +898,8 @@ input, select, textarea {
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 		ul.icons li {
