@@ -696,14 +696,13 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 2.5rem 0;
+			margin: auto;
 			width: 50%;
-			height: 50%;
 		}
 
 			.image.main img {
+				margin: auto;
 				width: 50%;
-				height: 50%;
 			}
 
 		@media screen and (max-width: 736px) {
