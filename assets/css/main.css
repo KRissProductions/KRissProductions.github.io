@@ -698,11 +698,11 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem;
 			object-position: center;
-			width: 70%;
+			width: 60vw;
 		}
 
 			.image.main img {
-				width: 70%;
+				width: 60vw;
 			}
 
 		@media screen and (max-width: 736px) {
